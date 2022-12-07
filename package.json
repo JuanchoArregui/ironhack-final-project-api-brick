@@ -12,7 +12,7 @@
     "cors": "^2.8.4",
     "debug": "~2.6.3",
     "dotenv": "^5.0.1",
-    "express": "~4.15.2",
+    "express": "~4.17.3",
     "express-session": "^1.15.6",
     "imap": "^0.8.19",
     "mail-notifier": "^0.5.0",
